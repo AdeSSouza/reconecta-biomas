@@ -1,0 +1,11 @@
+.intro {
+    max-width: 800px;
+    padding: 40px 20px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.intro h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
